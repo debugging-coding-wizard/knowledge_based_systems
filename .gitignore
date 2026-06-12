@@ -1,4 +1,24 @@
 # Backups, Swap
 *~
 *.swp
+*.swo
+*.swn
 *.bak
+
+# "Quick Load Files" (SWI-Prolog)
+*.qlf
+
+# Saved States
+*.saved_state
+
+# Temp test files
+*.log
+*.tmp
+
+# --- IDEs ---
+# Vim Undo-Dateien
+*.un~
+
+# Visual Studio Code
+.vscode/*
+.history/
